@@ -15,6 +15,7 @@ const NoticiasProvider = ({children}) => {
     )
 } 
 
+
 export {
     NoticiasProvider
 }
